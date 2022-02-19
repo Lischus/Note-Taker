@@ -20,14 +20,6 @@ In order to install this program you hit the git clone button, then once install
 
 Take your notes!
 
-## Credits
-
-
-
-## Badges
-
-
-
 ## Tests
 
 In order to test it you take notes and hit the save button.
